@@ -27,6 +27,7 @@
     "fh-wfm-mediator": "0.3.3",
     "lodash": "4.17.4",
     "q": "1.4.1",
+    "rhmap-stats": "1.0.5-alpha",
     "rx": "4.1.0",
     "shortid": "2.2.8"
   },
